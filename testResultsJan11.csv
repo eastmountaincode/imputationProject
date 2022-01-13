@@ -1,0 +1,13 @@
+,Dataset,Impute before split,Impute method,Model-based imputation,Package,Percent data missing,Score (AUC)
+0,Churn,Y,K-Nearest Neighbors,Y,sklearn,25,0.9160997732426304
+1,Churn,Y,MICE,Y,fancyimpute,25,0.9253662707399364
+2,Churn,Y,Expectation Maximization,Y,impyute,25,0.9284292216110084
+3,Churn,N,K-Nearest Neighbors,Y,sklearn,25,0.9241224428505812
+4,Churn,N,MICE,Y,fancyimpute,25,0.9202315125605061
+5,Churn,N,Expectation Maximization,Y,impyute,25,0.9222873900293256
+6,Churn,Y,K-Nearest Neighbors,Y,sklearn,66,0.9228299364133221
+7,Churn,Y,MICE,Y,fancyimpute,66,0.9207460960353496
+8,Churn,Y,Expectation Maximization,Y,impyute,66,0.906275007304886
+9,Churn,N,K-Nearest Neighbors,Y,sklearn,66,0.9156148386161432
+10,Churn,N,MICE,Y,fancyimpute,66,0.914653991472944
+11,Churn,N,Expectation Maximization,Y,impyute,66,0.9162960858978116

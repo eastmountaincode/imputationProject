@@ -1,0 +1,28 @@
+,Dataset,Impute method,Model-based imputation,Package,Percent data missing,Score (AUC)
+0,Churn,K-Nearest Neighbors,Y,sklearn,0.25,0.918328078078078
+1,Churn,MICE,Y,sklearn,0.25,0.920975975975976
+2,Churn,Expectation Maximization,Y,impyute,0.25,0.9227717717717718
+3,Churn,K-Nearest Neighbors,Y,sklearn,0.5,0.9338094328061204
+4,Churn,MICE,Y,sklearn,0.5,0.9291015233969749
+5,Churn,Expectation Maximization,Y,impyute,0.5,0.929498904925711
+6,Churn,K-Nearest Neighbors,Y,sklearn,0.75,0.9225119767935888
+7,Churn,MICE,Y,sklearn,0.75,0.9221742824911732
+8,Churn,Expectation Maximization,Y,impyute,0.75,0.9230232796636244
+9,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.25,0.9329679141770244
+10,HeartDisease,MICE,Y,sklearn,0.25,0.9325474050676236
+11,HeartDisease,Expectation Maximization,Y,impyute,0.25,0.9319704274523994
+12,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.5,0.9390115102144596
+13,HeartDisease,MICE,Y,sklearn,0.5,0.9391924269243179
+14,HeartDisease,Expectation Maximization,Y,impyute,0.5,0.9368502889777718
+15,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.75,0.936537479374558
+16,HeartDisease,MICE,Y,sklearn,0.75,0.9399455881197454
+17,HeartDisease,Expectation Maximization,Y,impyute,0.75,0.9361740787302584
+18,Titanic,K-Nearest Neighbors,Y,sklearn,0.25,0.8509173175685718
+19,Titanic,MICE,Y,sklearn,0.25,0.8478706012517132
+20,Titanic,Expectation Maximization,Y,impyute,0.25,0.8461119276053966
+21,Titanic,K-Nearest Neighbors,Y,sklearn,0.5,0.8666853894335512
+22,Titanic,MICE,Y,sklearn,0.5,0.8665832652505447
+23,Titanic,Expectation Maximization,Y,impyute,0.5,0.8670513344226579
+24,Titanic,K-Nearest Neighbors,Y,sklearn,0.75,0.8243828605833556
+25,Titanic,MICE,Y,sklearn,0.75,0.8252358175006691
+26,Titanic,Expectation Maximization,Y,impyute,0.75,0.8301528632592988
