@@ -1,0 +1,589 @@
+,Dataset,Impute method,Model-based imputation,Package,Percent data missing,Score (AUC)
+0,Churn,K-Nearest Neighbors,Y,sklearn,0.02,0.9149831443456942
+1,Churn,MICE,Y,sklearn,0.02,0.9149524977015016
+2,Churn,Expectation Maximization,Y,impyute,0.02,0.9177965062825622
+3,Churn,Missing Forest,Y,missingpy,0.02,0.9201386760649708
+4,Churn,K-Nearest Neighbors,Y,sklearn,0.04,0.9123275887207302
+5,Churn,MICE,Y,sklearn,0.04,0.9142018779342724
+6,Churn,Expectation Maximization,Y,impyute,0.04,0.9155680459569008
+7,Churn,Missing Forest,Y,missingpy,0.04,0.9060449654448428
+8,Churn,K-Nearest Neighbors,Y,sklearn,0.06,0.9194660717930774
+9,Churn,MICE,Y,sklearn,0.06,0.91838859242411
+10,Churn,Expectation Maximization,Y,impyute,0.06,0.9212594407021841
+11,Churn,Missing Forest,Y,missingpy,0.06,0.9204655469046159
+12,Churn,K-Nearest Neighbors,Y,sklearn,0.08,0.9040424212166598
+13,Churn,MICE,Y,sklearn,0.08,0.906484213074328
+14,Churn,Expectation Maximization,Y,impyute,0.08,0.9024410354165721
+15,Churn,Missing Forest,Y,missingpy,0.08,0.9039115569070636
+16,Churn,K-Nearest Neighbors,Y,sklearn,0.1,0.9068885897101826
+17,Churn,MICE,Y,sklearn,0.1,0.9079359564550219
+18,Churn,Expectation Maximization,Y,impyute,0.1,0.9112915834274301
+19,Churn,Missing Forest,Y,missingpy,0.1,0.9064564694982484
+20,Churn,K-Nearest Neighbors,Y,sklearn,0.12,0.903442355410759
+21,Churn,MICE,Y,sklearn,0.12,0.9052654569280892
+22,Churn,Expectation Maximization,Y,impyute,0.12,0.9089799125153948
+23,Churn,Missing Forest,Y,missingpy,0.12,0.9095183493195981
+24,Churn,K-Nearest Neighbors,Y,sklearn,0.14,0.9222522960890456
+25,Churn,MICE,Y,sklearn,0.14,0.918584635971048
+26,Churn,Expectation Maximization,Y,impyute,0.14,0.9192848671005412
+27,Churn,Missing Forest,Y,missingpy,0.14,0.915487956936926
+28,Churn,K-Nearest Neighbors,Y,sklearn,0.16,0.9024477676100296
+29,Churn,MICE,Y,sklearn,0.16,0.9029490395599996
+30,Churn,Expectation Maximization,Y,impyute,0.16,0.8994887173326738
+31,Churn,Missing Forest,Y,missingpy,0.16,0.9032684992168084
+32,Churn,K-Nearest Neighbors,Y,sklearn,0.18,0.9175660751297297
+33,Churn,MICE,Y,sklearn,0.18,0.9165191606529599
+34,Churn,Expectation Maximization,Y,impyute,0.18,0.9169034327296932
+35,Churn,Missing Forest,Y,missingpy,0.18,0.9185229731160834
+36,Churn,K-Nearest Neighbors,Y,sklearn,0.2,0.9062353439537664
+37,Churn,MICE,Y,sklearn,0.2,0.9120606968335376
+38,Churn,Expectation Maximization,Y,impyute,0.2,0.9118277129759906
+39,Churn,Missing Forest,Y,missingpy,0.2,0.9160690782008806
+40,Churn,K-Nearest Neighbors,Y,sklearn,0.22,0.9153109488876174
+41,Churn,MICE,Y,sklearn,0.22,0.9156726566876252
+42,Churn,Expectation Maximization,Y,impyute,0.22,0.9198042134839874
+43,Churn,Missing Forest,Y,missingpy,0.22,0.914879595486366
+44,Churn,K-Nearest Neighbors,Y,sklearn,0.24,0.9079961122304968
+45,Churn,MICE,Y,sklearn,0.24,0.909137441823997
+46,Churn,Expectation Maximization,Y,impyute,0.24,0.9019943310758234
+47,Churn,Missing Forest,Y,missingpy,0.24,0.904458212395298
+48,Churn,K-Nearest Neighbors,Y,sklearn,0.26,0.916202880784554
+49,Churn,MICE,Y,sklearn,0.26,0.9160350904076004
+50,Churn,Expectation Maximization,Y,impyute,0.26,0.9179765553171928
+51,Churn,Missing Forest,Y,missingpy,0.26,0.9183795586883235
+52,Churn,K-Nearest Neighbors,Y,sklearn,0.28,0.9118716244287496
+53,Churn,MICE,Y,sklearn,0.28,0.91226374764425
+54,Churn,Expectation Maximization,Y,impyute,0.28,0.9116744338674037
+55,Churn,Missing Forest,Y,missingpy,0.28,0.908867855229012
+56,Churn,K-Nearest Neighbors,Y,sklearn,0.3,0.9179389200048522
+57,Churn,MICE,Y,sklearn,0.3,0.9206276647050295
+58,Churn,Expectation Maximization,Y,impyute,0.3,0.9184537387975136
+59,Churn,Missing Forest,Y,missingpy,0.3,0.9163582192003741
+60,Churn,K-Nearest Neighbors,Y,sklearn,0.32,0.9258315119548659
+61,Churn,MICE,Y,sklearn,0.32,0.9270989505247376
+62,Churn,Expectation Maximization,Y,impyute,0.32,0.9251834925910541
+63,Churn,Missing Forest,Y,missingpy,0.32,0.9264652312398016
+64,Churn,K-Nearest Neighbors,Y,sklearn,0.34,0.9125695671084048
+65,Churn,MICE,Y,sklearn,0.34,0.9205869821854944
+66,Churn,Expectation Maximization,Y,impyute,0.34,0.9138048363379224
+67,Churn,Missing Forest,Y,missingpy,0.34,0.913958690229982
+68,Churn,K-Nearest Neighbors,Y,sklearn,0.36,0.9210651645038191
+69,Churn,MICE,Y,sklearn,0.36,0.9247864453463892
+70,Churn,Expectation Maximization,Y,impyute,0.36,0.9258276759550808
+71,Churn,Missing Forest,Y,missingpy,0.36,0.9241516966067864
+72,Churn,K-Nearest Neighbors,Y,sklearn,0.38,0.9025282127547896
+73,Churn,MICE,Y,sklearn,0.38,0.9049062490887352
+74,Churn,Expectation Maximization,Y,impyute,0.38,0.9006517365059924
+75,Churn,Missing Forest,Y,missingpy,0.38,0.9100661942670516
+76,Churn,K-Nearest Neighbors,Y,sklearn,0.4,0.9088948260711338
+77,Churn,MICE,Y,sklearn,0.4,0.9051194882582853
+78,Churn,Expectation Maximization,Y,impyute,0.4,0.9071750650180632
+79,Churn,Missing Forest,Y,missingpy,0.4,0.9085952547909216
+80,Churn,K-Nearest Neighbors,Y,sklearn,0.42,0.90337865302829
+81,Churn,MICE,Y,sklearn,0.42,0.8989847053613138
+82,Churn,Expectation Maximization,Y,impyute,0.42,0.9006326253268538
+83,Churn,Missing Forest,Y,missingpy,0.42,0.9018611712744724
+84,Churn,K-Nearest Neighbors,Y,sklearn,0.44,0.9135222777476972
+85,Churn,MICE,Y,sklearn,0.44,0.9108461076444672
+86,Churn,Expectation Maximization,Y,impyute,0.44,0.9121287165330799
+87,Churn,Missing Forest,Y,missingpy,0.44,0.9098016764156776
+88,Churn,K-Nearest Neighbors,Y,sklearn,0.46,0.9186146774260688
+89,Churn,MICE,Y,sklearn,0.46,0.9205659092666044
+90,Churn,Expectation Maximization,Y,impyute,0.46,0.9163780082420032
+91,Churn,Missing Forest,Y,missingpy,0.46,0.9155573758793552
+92,Churn,K-Nearest Neighbors,Y,sklearn,0.48,0.9142321956742768
+93,Churn,MICE,Y,sklearn,0.48,0.9128406911452076
+94,Churn,Expectation Maximization,Y,impyute,0.48,0.9133230601257049
+95,Churn,Missing Forest,Y,missingpy,0.48,0.9141621510768092
+96,Churn,K-Nearest Neighbors,Y,sklearn,0.5,0.9084952492793852
+97,Churn,MICE,Y,sklearn,0.5,0.9050164912655292
+98,Churn,Expectation Maximization,Y,impyute,0.5,0.9055551965747614
+99,Churn,Missing Forest,Y,missingpy,0.5,0.9096435976243588
+100,Churn,K-Nearest Neighbors,Y,sklearn,0.52,0.912877274892524
+101,Churn,MICE,Y,sklearn,0.52,0.9074346934609138
+102,Churn,Expectation Maximization,Y,impyute,0.52,0.9096263717405904
+103,Churn,Missing Forest,Y,missingpy,0.52,0.9076469822446692
+104,Churn,K-Nearest Neighbors,Y,sklearn,0.54,0.8996751455715599
+105,Churn,MICE,Y,sklearn,0.54,0.8964005516395954
+106,Churn,Expectation Maximization,Y,impyute,0.54,0.8926923076923077
+107,Churn,Missing Forest,Y,missingpy,0.54,0.8954589334967821
+108,Churn,K-Nearest Neighbors,Y,sklearn,0.56,0.9003700227265182
+109,Churn,MICE,Y,sklearn,0.56,0.897114215090046
+110,Churn,Expectation Maximization,Y,impyute,0.56,0.8972545581306911
+111,Churn,Missing Forest,Y,missingpy,0.56,0.896328746781919
+112,Churn,K-Nearest Neighbors,Y,sklearn,0.58,0.9139606915582588
+113,Churn,MICE,Y,sklearn,0.58,0.9072182801148844
+114,Churn,Expectation Maximization,Y,impyute,0.58,0.9108689530889228
+115,Churn,Missing Forest,Y,missingpy,0.58,0.9180794897786788
+116,Churn,K-Nearest Neighbors,Y,sklearn,0.6,0.9161777367500732
+117,Churn,MICE,Y,sklearn,0.6,0.9163508223786404
+118,Churn,Expectation Maximization,Y,impyute,0.6,0.9140008521138636
+119,Churn,Missing Forest,Y,missingpy,0.6,0.9100154445637798
+120,Churn,K-Nearest Neighbors,Y,sklearn,0.62,0.9176809878811434
+121,Churn,MICE,Y,sklearn,0.62,0.9150899786830606
+122,Churn,Expectation Maximization,Y,impyute,0.62,0.9194019479678244
+123,Churn,Missing Forest,Y,missingpy,0.62,0.9156759000812634
+124,Churn,K-Nearest Neighbors,Y,sklearn,0.64,0.9138109102053324
+125,Churn,MICE,Y,sklearn,0.64,0.9138576463377259
+126,Churn,Expectation Maximization,Y,impyute,0.64,0.9136040453570334
+127,Churn,Missing Forest,Y,missingpy,0.64,0.9101685565430584
+128,Churn,K-Nearest Neighbors,Y,sklearn,0.66,0.9171771771771772
+129,Churn,MICE,Y,sklearn,0.66,0.9190375375375376
+130,Churn,Expectation Maximization,Y,impyute,0.66,0.9162920420420421
+131,Churn,Missing Forest,Y,missingpy,0.66,0.9195352852852854
+132,Churn,K-Nearest Neighbors,Y,sklearn,0.68,0.9091963838615066
+133,Churn,MICE,Y,sklearn,0.68,0.911662881226602
+134,Churn,Expectation Maximization,Y,impyute,0.68,0.911738888094046
+135,Churn,Missing Forest,Y,missingpy,0.68,0.9166838054701101
+136,Churn,K-Nearest Neighbors,Y,sklearn,0.7,0.9116485873238326
+137,Churn,MICE,Y,sklearn,0.7,0.9149345685528638
+138,Churn,Expectation Maximization,Y,impyute,0.7,0.9110843662219634
+139,Churn,Missing Forest,Y,missingpy,0.7,0.9073683939112656
+140,Churn,K-Nearest Neighbors,Y,sklearn,0.72,0.9152057824848512
+141,Churn,MICE,Y,sklearn,0.72,0.9183641764240648
+142,Churn,Expectation Maximization,Y,impyute,0.72,0.9153730309283256
+143,Churn,Missing Forest,Y,missingpy,0.72,0.9195141023887538
+144,Churn,K-Nearest Neighbors,Y,sklearn,0.74,0.9173201870396276
+145,Churn,MICE,Y,sklearn,0.74,0.9159033109369056
+146,Churn,Expectation Maximization,Y,impyute,0.74,0.9199337692798496
+147,Churn,Missing Forest,Y,missingpy,0.74,0.9200153969200168
+148,Churn,K-Nearest Neighbors,Y,sklearn,0.76,0.9060719872494908
+149,Churn,MICE,Y,sklearn,0.76,0.9096802042442668
+150,Churn,Expectation Maximization,Y,impyute,0.76,0.9094455594581036
+151,Churn,Missing Forest,Y,missingpy,0.76,0.9162746081874796
+152,Churn,K-Nearest Neighbors,Y,sklearn,0.78,0.9227818319755784
+153,Churn,MICE,Y,sklearn,0.78,0.9161014372331906
+154,Churn,Expectation Maximization,Y,impyute,0.78,0.920867126677625
+155,Churn,Missing Forest,Y,missingpy,0.78,0.9261069766321658
+156,Churn,K-Nearest Neighbors,Y,sklearn,0.8,0.895645169343919
+157,Churn,MICE,Y,sklearn,0.8,0.9007705728409422
+158,Churn,Expectation Maximization,Y,impyute,0.8,0.8990427684815588
+159,Churn,Missing Forest,Y,missingpy,0.8,0.8980162191851636
+160,Churn,K-Nearest Neighbors,Y,sklearn,0.82,0.9136946471798044
+161,Churn,MICE,Y,sklearn,0.82,0.9158476360349209
+162,Churn,Expectation Maximization,Y,impyute,0.82,0.9160569438630338
+163,Churn,Missing Forest,Y,missingpy,0.82,0.914062452602394
+164,Churn,K-Nearest Neighbors,Y,sklearn,0.84,0.9214291859471884
+165,Churn,MICE,Y,sklearn,0.84,0.923750530022307
+166,Churn,Expectation Maximization,Y,impyute,0.84,0.9286743604397496
+167,Churn,Missing Forest,Y,missingpy,0.84,0.9233080766181812
+168,Churn,K-Nearest Neighbors,Y,sklearn,0.86,0.8957636004047185
+169,Churn,MICE,Y,sklearn,0.86,0.9019008623193058
+170,Churn,Expectation Maximization,Y,impyute,0.86,0.9026956266563959
+171,Churn,Missing Forest,Y,missingpy,0.86,0.900432076688645
+172,Churn,K-Nearest Neighbors,Y,sklearn,0.88,0.8972581461197753
+173,Churn,MICE,Y,sklearn,0.88,0.8963475973643645
+174,Churn,Expectation Maximization,Y,impyute,0.88,0.8993973069651433
+175,Churn,Missing Forest,Y,missingpy,0.88,0.9014617599110016
+176,Churn,K-Nearest Neighbors,Y,sklearn,0.9,0.9146446489771404
+177,Churn,MICE,Y,sklearn,0.9,0.9118828687182748
+178,Churn,Expectation Maximization,Y,impyute,0.9,0.9118387037887622
+179,Churn,Missing Forest,Y,missingpy,0.9,0.9127889858554452
+180,Churn,K-Nearest Neighbors,Y,sklearn,0.92,0.9065609398201736
+181,Churn,MICE,Y,sklearn,0.92,0.9081160043027348
+182,Churn,Expectation Maximization,Y,impyute,0.92,0.9108066750850607
+183,Churn,Missing Forest,Y,missingpy,0.92,0.9114168625112538
+184,Churn,K-Nearest Neighbors,Y,sklearn,0.94,0.9089697498391888
+185,Churn,MICE,Y,sklearn,0.94,0.9152098184520401
+186,Churn,Expectation Maximization,Y,impyute,0.94,0.916438299834636
+187,Churn,Missing Forest,Y,missingpy,0.94,0.9120993300260528
+188,Churn,K-Nearest Neighbors,Y,sklearn,0.96,0.9164348409296358
+189,Churn,MICE,Y,sklearn,0.96,0.9135268130522264
+190,Churn,Expectation Maximization,Y,impyute,0.96,0.9092671973872218
+191,Churn,Missing Forest,Y,missingpy,0.96,0.9113193654681714
+192,Churn,K-Nearest Neighbors,Y,sklearn,0.98,0.9190615729028264
+193,Churn,MICE,Y,sklearn,0.98,0.9164619090087304
+194,Churn,Expectation Maximization,Y,impyute,0.98,0.9139547652415534
+195,Churn,Missing Forest,Y,missingpy,0.98,0.9162192332659908
+196,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.02,0.9198992839719884
+197,HeartDisease,MICE,Y,sklearn,0.02,0.92021893933433
+198,HeartDisease,Expectation Maximization,Y,impyute,0.02,0.9203615548036824
+199,HeartDisease,Missing Forest,Y,missingpy,0.02,0.9252153985364702
+200,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.04,0.9392559922548092
+201,HeartDisease,MICE,Y,sklearn,0.04,0.9380091338490276
+202,HeartDisease,Expectation Maximization,Y,impyute,0.04,0.9381558230732372
+203,HeartDisease,Missing Forest,Y,missingpy,0.04,0.9424000312937012
+204,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.06,0.9210313068226738
+205,HeartDisease,MICE,Y,sklearn,0.06,0.921525417029014
+206,HeartDisease,Expectation Maximization,Y,impyute,0.06,0.9206014309431576
+207,HeartDisease,Missing Forest,Y,missingpy,0.06,0.9177108862360659
+208,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.08,0.9386574074074072
+209,HeartDisease,MICE,Y,sklearn,0.08,0.93620527306968
+210,HeartDisease,Expectation Maximization,Y,impyute,0.08,0.935979676710609
+211,HeartDisease,Missing Forest,Y,missingpy,0.08,0.9375490426867544
+212,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.1,0.9295545879123592
+213,HeartDisease,MICE,Y,sklearn,0.1,0.9308036375485056
+214,HeartDisease,Expectation Maximization,Y,impyute,0.1,0.9304333659172368
+215,HeartDisease,Missing Forest,Y,missingpy,0.1,0.9349901754593838
+216,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.12,0.9141902112916606
+217,HeartDisease,MICE,Y,sklearn,0.12,0.9137607963694921
+218,HeartDisease,Expectation Maximization,Y,impyute,0.12,0.9114038940125896
+219,HeartDisease,Missing Forest,Y,missingpy,0.12,0.9152344703069342
+220,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.14,0.9261078667124699
+221,HeartDisease,MICE,Y,sklearn,0.14,0.9273052951857488
+222,HeartDisease,Expectation Maximization,Y,impyute,0.14,0.9260538842812976
+223,HeartDisease,Missing Forest,Y,missingpy,0.14,0.9288806006772342
+224,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.16,0.93275828460039
+225,HeartDisease,MICE,Y,sklearn,0.16,0.9331189083820663
+226,HeartDisease,Expectation Maximization,Y,impyute,0.16,0.9327387914230021
+227,HeartDisease,Missing Forest,Y,missingpy,0.16,0.9309600389863548
+228,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.18,0.9305898854362836
+229,HeartDisease,MICE,Y,sklearn,0.18,0.9309184714375393
+230,HeartDisease,Expectation Maximization,Y,impyute,0.18,0.929893479284369
+231,HeartDisease,Missing Forest,Y,missingpy,0.18,0.9285791352793472
+232,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.2,0.9305381604696672
+233,HeartDisease,MICE,Y,sklearn,0.2,0.9306213307240704
+234,HeartDisease,Expectation Maximization,Y,impyute,0.2,0.9291731898238748
+235,HeartDisease,Missing Forest,Y,missingpy,0.2,0.9340655577299414
+236,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.22,0.9254689918277621
+237,HeartDisease,MICE,Y,sklearn,0.22,0.9260999004347354
+238,HeartDisease,Expectation Maximization,Y,impyute,0.22,0.9268146015910728
+239,HeartDisease,Missing Forest,Y,missingpy,0.22,0.9288995573781804
+240,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.24,0.9285953506698188
+241,HeartDisease,MICE,Y,sklearn,0.24,0.9290238376674548
+242,HeartDisease,Expectation Maximization,Y,impyute,0.24,0.9293341213553978
+243,HeartDisease,Missing Forest,Y,missingpy,0.24,0.9326241134751772
+244,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.26,0.9211251877618784
+245,HeartDisease,MICE,Y,sklearn,0.26,0.9223159933591588
+246,HeartDisease,Expectation Maximization,Y,impyute,0.26,0.9232103328326351
+247,HeartDisease,Missing Forest,Y,missingpy,0.26,0.9188967507312832
+248,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.28,0.9179332358289192
+249,HeartDisease,MICE,Y,sklearn,0.28,0.9181160566052652
+250,HeartDisease,Expectation Maximization,Y,impyute,0.28,0.9169450154162384
+251,HeartDisease,Missing Forest,Y,missingpy,0.28,0.9185113447703376
+252,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.3,0.9198747040252566
+253,HeartDisease,MICE,Y,sklearn,0.3,0.9158001183898976
+254,HeartDisease,Expectation Maximization,Y,impyute,0.3,0.9195294001578532
+255,HeartDisease,Missing Forest,Y,missingpy,0.3,0.9197661799526441
+256,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.32,0.9202093413454034
+257,HeartDisease,MICE,Y,sklearn,0.32,0.9211214296862806
+258,HeartDisease,Expectation Maximization,Y,impyute,0.32,0.9233504370220073
+259,HeartDisease,Missing Forest,Y,missingpy,0.32,0.9195313719369441
+260,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.34,0.9187597962382446
+261,HeartDisease,MICE,Y,sklearn,0.34,0.9187695924764889
+262,HeartDisease,Expectation Maximization,Y,impyute,0.34,0.9179858934169278
+263,HeartDisease,Missing Forest,Y,missingpy,0.34,0.9214341692789968
+264,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.36,0.9308462506884886
+265,HeartDisease,MICE,Y,sklearn,0.36,0.9287266897474232
+266,HeartDisease,Expectation Maximization,Y,impyute,0.36,0.9303200487843258
+267,HeartDisease,Missing Forest,Y,missingpy,0.36,0.9355230545282872
+268,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.38,0.9300766283524904
+269,HeartDisease,MICE,Y,sklearn,0.38,0.9314254437407148
+270,HeartDisease,Expectation Maximization,Y,impyute,0.38,0.9321682696066932
+271,HeartDisease,Missing Forest,Y,missingpy,0.38,0.9308829853780592
+272,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.4,0.9239766081871345
+273,HeartDisease,MICE,Y,sklearn,0.4,0.9221927367438204
+274,HeartDisease,Expectation Maximization,Y,impyute,0.4,0.9196029288908546
+275,HeartDisease,Missing Forest,Y,missingpy,0.4,0.9186299081035922
+276,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.42,0.9240892281060664
+277,HeartDisease,MICE,Y,sklearn,0.42,0.9255989849712801
+278,HeartDisease,Expectation Maximization,Y,impyute,0.42,0.9246154300102291
+279,HeartDisease,Missing Forest,Y,missingpy,0.42,0.9314806436383664
+280,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.44,0.9216199780288764
+281,HeartDisease,MICE,Y,sklearn,0.44,0.9220270323289391
+282,HeartDisease,Expectation Maximization,Y,impyute,0.44,0.9206096986817326
+283,HeartDisease,Missing Forest,Y,missingpy,0.44,0.9211442639673572
+284,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.46,0.9318833769005592
+285,HeartDisease,MICE,Y,sklearn,0.46,0.9348792355665207
+286,HeartDisease,Expectation Maximization,Y,impyute,0.46,0.9318197393798768
+287,HeartDisease,Missing Forest,Y,missingpy,0.46,0.931168678591359
+288,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.48,0.9269013360739979
+289,HeartDisease,MICE,Y,sklearn,0.48,0.9266888686852716
+290,HeartDisease,Expectation Maximization,Y,impyute,0.48,0.9289815400426912
+291,HeartDisease,Missing Forest,Y,missingpy,0.48,0.9270347458297098
+292,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.5,0.9310987878490454
+293,HeartDisease,MICE,Y,sklearn,0.5,0.9307209108308386
+294,HeartDisease,Expectation Maximization,Y,impyute,0.5,0.9310153604554152
+295,HeartDisease,Missing Forest,Y,missingpy,0.5,0.9289247681209208
+296,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.52,0.9283283499881974
+297,HeartDisease,MICE,Y,sklearn,0.52,0.9256432449445274
+298,HeartDisease,Expectation Maximization,Y,impyute,0.52,0.9258694625855692
+299,HeartDisease,Missing Forest,Y,missingpy,0.52,0.9240892281060664
+300,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.54,0.9290828553469004
+301,HeartDisease,MICE,Y,sklearn,0.54,0.9290583012493124
+302,HeartDisease,Expectation Maximization,Y,impyute,0.54,0.9290583012493124
+303,HeartDisease,Missing Forest,Y,missingpy,0.54,0.9260234147874598
+304,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.56,0.9155653815580286
+305,HeartDisease,MICE,Y,sklearn,0.56,0.9159032193958664
+306,HeartDisease,Expectation Maximization,Y,impyute,0.56,0.9182581478537359
+307,HeartDisease,Missing Forest,Y,missingpy,0.56,0.9184370031796504
+308,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.58,0.9223637385278142
+309,HeartDisease,MICE,Y,sklearn,0.58,0.9222651590579748
+310,HeartDisease,Expectation Maximization,Y,impyute,0.58,0.9198154592324602
+311,HeartDisease,Missing Forest,Y,missingpy,0.58,0.919874606914364
+312,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.6,0.9323336594911936
+313,HeartDisease,MICE,Y,sklearn,0.6,0.929271037181996
+314,HeartDisease,Expectation Maximization,Y,impyute,0.6,0.9303864970645792
+315,HeartDisease,Missing Forest,Y,missingpy,0.6,0.9297798434442271
+316,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.62,0.923579321231255
+317,HeartDisease,MICE,Y,sklearn,0.62,0.92483228097869
+318,HeartDisease,Expectation Maximization,Y,impyute,0.62,0.9208218232044201
+319,HeartDisease,Missing Forest,Y,missingpy,0.62,0.9230662983425414
+320,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.64,0.92623373532212
+321,HeartDisease,MICE,Y,sklearn,0.64,0.9252072754681052
+322,HeartDisease,Expectation Maximization,Y,impyute,0.64,0.9218154950809266
+323,HeartDisease,Missing Forest,Y,missingpy,0.64,0.9229758410028562
+324,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.66,0.9193460277821134
+325,HeartDisease,MICE,Y,sklearn,0.66,0.9167365771812079
+326,HeartDisease,Expectation Maximization,Y,impyute,0.66,0.9168390042141408
+327,HeartDisease,Missing Forest,Y,missingpy,0.66,0.916999960980178
+328,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.68,0.9409209085933224
+329,HeartDisease,MICE,Y,sklearn,0.68,0.9418396669012432
+330,HeartDisease,Expectation Maximization,Y,impyute,0.68,0.9408573774337322
+331,HeartDisease,Missing Forest,Y,missingpy,0.68,0.9358335288138244
+332,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.7,0.9308362884160756
+333,HeartDisease,MICE,Y,sklearn,0.7,0.931102245862884
+334,HeartDisease,Expectation Maximization,Y,impyute,0.7,0.9314519306540584
+335,HeartDisease,Missing Forest,Y,missingpy,0.7,0.9274773443656421
+336,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.72,0.9327838539617594
+337,HeartDisease,MICE,Y,sklearn,0.72,0.9324051853017548
+338,HeartDisease,Expectation Maximization,Y,impyute,0.72,0.9343378708002203
+339,HeartDisease,Missing Forest,Y,missingpy,0.72,0.928131638995987
+340,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.74,0.9258139305445936
+341,HeartDisease,MICE,Y,sklearn,0.74,0.9236533149171272
+342,HeartDisease,Expectation Maximization,Y,impyute,0.74,0.9212559194948698
+343,HeartDisease,Missing Forest,Y,missingpy,0.74,0.9203679952644042
+344,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.76,0.9276591156375898
+345,HeartDisease,MICE,Y,sklearn,0.76,0.9289285119146808
+346,HeartDisease,Expectation Maximization,Y,impyute,0.76,0.9293058999970591
+347,HeartDisease,Missing Forest,Y,missingpy,0.76,0.9246302086907084
+348,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.78,0.9229009966384402
+349,HeartDisease,MICE,Y,sklearn,0.78,0.9215948186630653
+350,HeartDisease,Expectation Maximization,Y,impyute,0.78,0.917631923975513
+351,HeartDisease,Missing Forest,Y,missingpy,0.78,0.916084226299031
+352,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.8,0.9311748644613812
+353,HeartDisease,MICE,Y,sklearn,0.8,0.9343718079673136
+354,HeartDisease,Expectation Maximization,Y,impyute,0.8,0.9343079673135852
+355,HeartDisease,Missing Forest,Y,missingpy,0.8,0.9334682171760824
+356,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.82,0.9271716101694916
+357,HeartDisease,MICE,Y,sklearn,0.82,0.9300357030759572
+358,HeartDisease,Expectation Maximization,Y,impyute,0.82,0.9279366760828626
+359,HeartDisease,Missing Forest,Y,missingpy,0.82,0.9317914312617704
+360,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.84,0.9256621750642244
+361,HeartDisease,MICE,Y,sklearn,0.84,0.922482947331122
+362,HeartDisease,Expectation Maximization,Y,impyute,0.84,0.9255145329094364
+363,HeartDisease,Missing Forest,Y,missingpy,0.84,0.9271189109914664
+364,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.86,0.9239935587761674
+365,HeartDisease,MICE,Y,sklearn,0.86,0.9221099887766556
+366,HeartDisease,Expectation Maximization,Y,impyute,0.86,0.9270141023764212
+367,HeartDisease,Missing Forest,Y,missingpy,0.86,0.9282096325574588
+368,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.88,0.9196526418786692
+369,HeartDisease,MICE,Y,sklearn,0.88,0.9184833659491194
+370,HeartDisease,Expectation Maximization,Y,impyute,0.88,0.9186986301369864
+371,HeartDisease,Missing Forest,Y,missingpy,0.88,0.9188845401174168
+372,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.9,0.920217209690894
+373,HeartDisease,MICE,Y,sklearn,0.9,0.9198682981964716
+374,HeartDisease,Expectation Maximization,Y,impyute,0.9,0.9154749619145904
+375,HeartDisease,Missing Forest,Y,missingpy,0.9,0.9178681999115436
+376,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.92,0.9298874404686231
+377,HeartDisease,MICE,Y,sklearn,0.92,0.9279169152234076
+378,HeartDisease,Expectation Maximization,Y,impyute,0.92,0.925579666917668
+379,HeartDisease,Missing Forest,Y,missingpy,0.92,0.9276479849790236
+380,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.94,0.9227775762863052
+381,HeartDisease,MICE,Y,sklearn,0.94,0.9187586382661712
+382,HeartDisease,Expectation Maximization,Y,impyute,0.94,0.9238215199427549
+383,HeartDisease,Missing Forest,Y,missingpy,0.94,0.9200770459825324
+384,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.96,0.9297016341179576
+385,HeartDisease,MICE,Y,sklearn,0.96,0.9294033660287316
+386,HeartDisease,Expectation Maximization,Y,impyute,0.96,0.9291246565027332
+387,HeartDisease,Missing Forest,Y,missingpy,0.96,0.9240589886266956
+388,HeartDisease,K-Nearest Neighbors,Y,sklearn,0.98,0.921906901773067
+389,HeartDisease,MICE,Y,sklearn,0.98,0.9215698725150198
+390,HeartDisease,Expectation Maximization,Y,impyute,0.98,0.9177355541444829
+391,HeartDisease,Missing Forest,Y,missingpy,0.98,0.9216333707810286
+392,Titanic,K-Nearest Neighbors,Y,sklearn,0.02,0.8322745764972656
+393,Titanic,MICE,Y,sklearn,0.02,0.8322995865012671
+394,Titanic,Expectation Maximization,Y,impyute,0.02,0.8321661998132587
+395,Titanic,Missing Forest,Y,missingpy,0.02,0.8465219421101774
+396,Titanic,K-Nearest Neighbors,Y,sklearn,0.04,0.8557112068965518
+397,Titanic,MICE,Y,sklearn,0.04,0.8567639257294429
+398,Titanic,Expectation Maximization,Y,impyute,0.04,0.8608670424403183
+399,Titanic,Missing Forest,Y,missingpy,0.04,0.888246021220159
+400,Titanic,K-Nearest Neighbors,Y,sklearn,0.06,0.8272958505120361
+401,Titanic,MICE,Y,sklearn,0.06,0.8231314004521878
+402,Titanic,Expectation Maximization,Y,impyute,0.06,0.8252759675488762
+403,Titanic,Missing Forest,Y,missingpy,0.06,0.8498719909562441
+404,Titanic,K-Nearest Neighbors,Y,sklearn,0.08,0.8167488420738084
+405,Titanic,MICE,Y,sklearn,0.08,0.8164832245961784
+406,Titanic,Expectation Maximization,Y,impyute,0.08,0.8177864103458007
+407,Titanic,Missing Forest,Y,missingpy,0.08,0.8465561033916031
+408,Titanic,K-Nearest Neighbors,Y,sklearn,0.1,0.8495200026759433
+409,Titanic,MICE,Y,sklearn,0.1,0.8471952769601284
+410,Titanic,Expectation Maximization,Y,impyute,0.1,0.8486837704040674
+411,Titanic,Missing Forest,Y,missingpy,0.1,0.8682265185978058
+412,Titanic,K-Nearest Neighbors,Y,sklearn,0.12,0.8411387663364689
+413,Titanic,MICE,Y,sklearn,0.12,0.8412053608590693
+414,Titanic,Expectation Maximization,Y,impyute,0.12,0.8437526013485391
+415,Titanic,Missing Forest,Y,missingpy,0.12,0.8628236077582622
+416,Titanic,K-Nearest Neighbors,Y,sklearn,0.14,0.8395805702917772
+417,Titanic,MICE,Y,sklearn,0.14,0.8440981432360743
+418,Titanic,Expectation Maximization,Y,impyute,0.14,0.843236074270557
+419,Titanic,Missing Forest,Y,missingpy,0.14,0.8756051061007958
+420,Titanic,K-Nearest Neighbors,Y,sklearn,0.16,0.8466435185185186
+421,Titanic,MICE,Y,sklearn,0.16,0.8517582380174291
+422,Titanic,Expectation Maximization,Y,impyute,0.16,0.8464648011982572
+423,Titanic,Missing Forest,Y,missingpy,0.16,0.8588558687363834
+424,Titanic,K-Nearest Neighbors,Y,sklearn,0.18,0.8240041893868866
+425,Titanic,MICE,Y,sklearn,0.18,0.8270381699694108
+426,Titanic,Expectation Maximization,Y,impyute,0.18,0.8247024205346456
+427,Titanic,Missing Forest,Y,missingpy,0.18,0.8591235536640508
+428,Titanic,K-Nearest Neighbors,Y,sklearn,0.2,0.8278972078082528
+429,Titanic,MICE,Y,sklearn,0.2,0.8290915081130055
+430,Titanic,Expectation Maximization,Y,impyute,0.2,0.8281360678692036
+431,Titanic,Missing Forest,Y,missingpy,0.2,0.8400296515937732
+432,Titanic,K-Nearest Neighbors,Y,sklearn,0.22,0.826744966442953
+433,Titanic,MICE,Y,sklearn,0.22,0.8387751677852351
+434,Titanic,Expectation Maximization,Y,impyute,0.22,0.8216023489932887
+435,Titanic,Missing Forest,Y,missingpy,0.22,0.8365604026845637
+436,Titanic,K-Nearest Neighbors,Y,sklearn,0.24,0.8487332214765101
+437,Titanic,MICE,Y,sklearn,0.24,0.8407885906040269
+438,Titanic,Expectation Maximization,Y,impyute,0.24,0.8475251677852349
+439,Titanic,Missing Forest,Y,missingpy,0.24,0.8543875838926174
+440,Titanic,K-Nearest Neighbors,Y,sklearn,0.26,0.8238688711325528
+441,Titanic,MICE,Y,sklearn,0.26,0.8290031324857196
+442,Titanic,Expectation Maximization,Y,impyute,0.26,0.8242206476037323
+443,Titanic,Missing Forest,Y,missingpy,0.26,0.8462401795735129
+444,Titanic,K-Nearest Neighbors,Y,sklearn,0.28,0.8202114376092566
+445,Titanic,MICE,Y,sklearn,0.28,0.8205527345375844
+446,Titanic,Expectation Maximization,Y,impyute,0.28,0.8223424623324731
+447,Titanic,Missing Forest,Y,missingpy,0.28,0.8335053691833847
+448,Titanic,K-Nearest Neighbors,Y,sklearn,0.3,0.8586373883276279
+449,Titanic,MICE,Y,sklearn,0.3,0.8556065792769475
+450,Titanic,Expectation Maximization,Y,impyute,0.3,0.8535860399098272
+451,Titanic,Missing Forest,Y,missingpy,0.3,0.8810219587542791
+452,Titanic,K-Nearest Neighbors,Y,sklearn,0.32,0.8334887205527346
+453,Titanic,MICE,Y,sklearn,0.32,0.8261217014900525
+454,Titanic,Expectation Maximization,Y,impyute,0.32,0.825280945642221
+455,Titanic,Missing Forest,Y,missingpy,0.32,0.8421127112295014
+456,Titanic,K-Nearest Neighbors,Y,sklearn,0.34,0.8223257291945408
+457,Titanic,MICE,Y,sklearn,0.34,0.8301361386138614
+458,Titanic,Expectation Maximization,Y,impyute,0.34,0.8258044554455446
+459,Titanic,Missing Forest,Y,missingpy,0.34,0.8422113326197485
+460,Titanic,K-Nearest Neighbors,Y,sklearn,0.36,0.8473889257294429
+461,Titanic,MICE,Y,sklearn,0.36,0.8495606763925729
+462,Titanic,Expectation Maximization,Y,impyute,0.36,0.8380553713527851
+463,Titanic,Missing Forest,Y,missingpy,0.36,0.8488395225464191
+464,Titanic,K-Nearest Neighbors,Y,sklearn,0.38,0.8490324511238198
+465,Titanic,MICE,Y,sklearn,0.38,0.8420168905439552
+466,Titanic,Expectation Maximization,Y,impyute,0.38,0.8469211331294055
+467,Titanic,Missing Forest,Y,missingpy,0.38,0.8426984971405772
+468,Titanic,K-Nearest Neighbors,Y,sklearn,0.4,0.8419412905012462
+469,Titanic,MICE,Y,sklearn,0.4,0.8332958321794517
+470,Titanic,Expectation Maximization,Y,impyute,0.4,0.8264850456937136
+471,Titanic,Missing Forest,Y,missingpy,0.4,0.8332179451675435
+472,Titanic,K-Nearest Neighbors,Y,sklearn,0.42,0.8302445062398264
+473,Titanic,MICE,Y,sklearn,0.42,0.8282352143244709
+474,Titanic,Expectation Maximization,Y,impyute,0.42,0.8194604584915899
+475,Titanic,Missing Forest,Y,missingpy,0.42,0.8410455100379816
+476,Titanic,K-Nearest Neighbors,Y,sklearn,0.44,0.8526255238721341
+477,Titanic,MICE,Y,sklearn,0.44,0.8512449667187115
+478,Titanic,Expectation Maximization,Y,impyute,0.44,0.8446873202399542
+479,Titanic,Missing Forest,Y,missingpy,0.44,0.8579587476374394
+480,Titanic,K-Nearest Neighbors,Y,sklearn,0.46,0.8350423502734428
+481,Titanic,MICE,Y,sklearn,0.46,0.8313492063492063
+482,Titanic,Expectation Maximization,Y,impyute,0.46,0.853624783246632
+483,Titanic,Missing Forest,Y,missingpy,0.46,0.8532913165266107
+484,Titanic,K-Nearest Neighbors,Y,sklearn,0.48,0.8455572175257559
+485,Titanic,MICE,Y,sklearn,0.48,0.845540411085528
+486,Titanic,Expectation Maximization,Y,impyute,0.48,0.8450866371993748
+487,Titanic,Missing Forest,Y,missingpy,0.48,0.8548007596510984
+488,Titanic,K-Nearest Neighbors,Y,sklearn,0.5,0.8088082901554404
+489,Titanic,MICE,Y,sklearn,0.5,0.8135819247430561
+490,Titanic,Expectation Maximization,Y,impyute,0.5,0.7997366856366261
+491,Titanic,Missing Forest,Y,missingpy,0.5,0.7939437696424021
+492,Titanic,K-Nearest Neighbors,Y,sklearn,0.52,0.8597390417269976
+493,Titanic,MICE,Y,sklearn,0.52,0.8556173489535343
+494,Titanic,Expectation Maximization,Y,impyute,0.52,0.8584720942477294
+495,Titanic,Missing Forest,Y,missingpy,0.52,0.8494471501908648
+496,Titanic,K-Nearest Neighbors,Y,sklearn,0.54,0.8293214064358343
+497,Titanic,MICE,Y,sklearn,0.54,0.8332244501398729
+498,Titanic,Expectation Maximization,Y,impyute,0.54,0.8311640450943933
+499,Titanic,Missing Forest,Y,missingpy,0.54,0.8291957719818416
+500,Titanic,K-Nearest Neighbors,Y,sklearn,0.56,0.8455952560430172
+501,Titanic,MICE,Y,sklearn,0.56,0.8396736854448298
+502,Titanic,Expectation Maximization,Y,impyute,0.56,0.8363066820778263
+503,Titanic,Missing Forest,Y,missingpy,0.56,0.8326549072817729
+504,Titanic,K-Nearest Neighbors,Y,sklearn,0.58,0.8333139099309081
+505,Titanic,MICE,Y,sklearn,0.58,0.8341213685174395
+506,Titanic,Expectation Maximization,Y,impyute,0.58,0.8340298010488637
+507,Titanic,Missing Forest,Y,missingpy,0.58,0.8303005077832348
+508,Titanic,K-Nearest Neighbors,Y,sklearn,0.6,0.8428145467946463
+509,Titanic,MICE,Y,sklearn,0.6,0.8456873879759452
+510,Titanic,Expectation Maximization,Y,impyute,0.6,0.8472033770541233
+511,Titanic,Missing Forest,Y,missingpy,0.6,0.8322947551803273
+512,Titanic,K-Nearest Neighbors,Y,sklearn,0.62,0.8444268180679636
+513,Titanic,MICE,Y,sklearn,0.62,0.85065542289388
+514,Titanic,Expectation Maximization,Y,impyute,0.62,0.8528262503131001
+515,Titanic,Missing Forest,Y,missingpy,0.62,0.8381063705435418
+516,Titanic,K-Nearest Neighbors,Y,sklearn,0.64,0.8503978779840848
+517,Titanic,MICE,Y,sklearn,0.64,0.8420755968169761
+518,Titanic,Expectation Maximization,Y,impyute,0.64,0.8466594827586207
+519,Titanic,Missing Forest,Y,missingpy,0.64,0.8652602785145889
+520,Titanic,K-Nearest Neighbors,Y,sklearn,0.66,0.8259131656408885
+521,Titanic,MICE,Y,sklearn,0.66,0.8222504682900723
+522,Titanic,Expectation Maximization,Y,impyute,0.66,0.8212888011774151
+523,Titanic,Missing Forest,Y,missingpy,0.66,0.8319173133529569
+524,Titanic,K-Nearest Neighbors,Y,sklearn,0.68,0.8452635804120953
+525,Titanic,MICE,Y,sklearn,0.68,0.829249732405673
+526,Titanic,Expectation Maximization,Y,impyute,0.68,0.8392259834091517
+527,Titanic,Missing Forest,Y,missingpy,0.68,0.8455813486754079
+528,Titanic,K-Nearest Neighbors,Y,sklearn,0.7,0.8266711063015068
+529,Titanic,MICE,Y,sklearn,0.7,0.8261050528594024
+530,Titanic,Expectation Maximization,Y,impyute,0.7,0.8293931574128027
+531,Titanic,Missing Forest,Y,missingpy,0.7,0.8278365104470158
+532,Titanic,K-Nearest Neighbors,Y,sklearn,0.72,0.8349355473017259
+533,Titanic,MICE,Y,sklearn,0.72,0.8243054738575822
+534,Titanic,Expectation Maximization,Y,impyute,0.72,0.8307087275844104
+535,Titanic,Missing Forest,Y,missingpy,0.72,0.8322801297457185
+536,Titanic,K-Nearest Neighbors,Y,sklearn,0.74,0.8439702753025667
+537,Titanic,MICE,Y,sklearn,0.74,0.8372290198164649
+538,Titanic,Expectation Maximization,Y,impyute,0.74,0.8416095890410958
+539,Titanic,Missing Forest,Y,missingpy,0.74,0.8368965287937226
+540,Titanic,K-Nearest Neighbors,Y,sklearn,0.76,0.8379672021976192
+541,Titanic,MICE,Y,sklearn,0.76,0.8470490302172646
+542,Titanic,Expectation Maximization,Y,impyute,0.76,0.8518188628985266
+543,Titanic,Missing Forest,Y,missingpy,0.76,0.8383084991259468
+544,Titanic,K-Nearest Neighbors,Y,sklearn,0.78,0.843334576776994
+545,Titanic,MICE,Y,sklearn,0.78,0.8488876831253392
+546,Titanic,Expectation Maximization,Y,impyute,0.78,0.8498033098209441
+547,Titanic,Missing Forest,Y,missingpy,0.78,0.8517108654367879
+548,Titanic,K-Nearest Neighbors,Y,sklearn,0.8,0.8288024689276018
+549,Titanic,MICE,Y,sklearn,0.8,0.826264397861612
+550,Titanic,Expectation Maximization,Y,impyute,0.8,0.8282881090105739
+551,Titanic,Missing Forest,Y,missingpy,0.8,0.8302022024723005
+552,Titanic,K-Nearest Neighbors,Y,sklearn,0.82,0.8368204697986578
+553,Titanic,MICE,Y,sklearn,0.82,0.8407214765100671
+554,Titanic,Expectation Maximization,Y,impyute,0.82,0.8351426174496644
+555,Titanic,Missing Forest,Y,missingpy,0.82,0.8315436241610739
+556,Titanic,K-Nearest Neighbors,Y,sklearn,0.84,0.8529807820188855
+557,Titanic,MICE,Y,sklearn,0.84,0.8530805293257082
+558,Titanic,Expectation Maximization,Y,impyute,0.84,0.8630552600079797
+559,Titanic,Missing Forest,Y,missingpy,0.84,0.8533714589706077
+560,Titanic,K-Nearest Neighbors,Y,sklearn,0.86,0.8340169401093771
+561,Titanic,MICE,Y,sklearn,0.86,0.8387938508736827
+562,Titanic,Expectation Maximization,Y,impyute,0.86,0.8437208216619981
+563,Titanic,Missing Forest,Y,missingpy,0.86,0.8476974122982526
+564,Titanic,K-Nearest Neighbors,Y,sklearn,0.88,0.8335303421293598
+565,Titanic,MICE,Y,sklearn,0.88,0.8260467826521268
+566,Titanic,Expectation Maximization,Y,impyute,0.88,0.8294680762507284
+567,Titanic,Missing Forest,Y,missingpy,0.88,0.8327395321734787
+568,Titanic,K-Nearest Neighbors,Y,sklearn,0.9,0.8251094276094276
+569,Titanic,MICE,Y,sklearn,0.9,0.829949494949495
+570,Titanic,Expectation Maximization,Y,impyute,0.9,0.8333333333333334
+571,Titanic,Missing Forest,Y,missingpy,0.9,0.8318265993265993
+572,Titanic,K-Nearest Neighbors,Y,sklearn,0.92,0.8118617374005305
+573,Titanic,MICE,Y,sklearn,0.92,0.8144313660477454
+574,Titanic,Expectation Maximization,Y,impyute,0.92,0.820407824933687
+575,Titanic,Missing Forest,Y,missingpy,0.92,0.8154260610079576
+576,Titanic,K-Nearest Neighbors,Y,sklearn,0.94,0.8062023420479303
+577,Titanic,MICE,Y,sklearn,0.94,0.8177508850762527
+578,Titanic,Expectation Maximization,Y,impyute,0.94,0.8056491693899782
+579,Titanic,Missing Forest,Y,missingpy,0.94,0.8191295615468409
+580,Titanic,K-Nearest Neighbors,Y,sklearn,0.96,0.8489354596309594
+581,Titanic,MICE,Y,sklearn,0.96,0.8470986056608499
+582,Titanic,Expectation Maximization,Y,impyute,0.96,0.852650914252317
+583,Titanic,Missing Forest,Y,missingpy,0.96,0.8528846956666944
+584,Titanic,K-Nearest Neighbors,Y,sklearn,0.98,0.8299412751677852
+585,Titanic,MICE,Y,sklearn,0.98,0.8183640939597315
+586,Titanic,Expectation Maximization,Y,impyute,0.98,0.8198322147651007
+587,Titanic,Missing Forest,Y,missingpy,0.98,0.8191107382550336
